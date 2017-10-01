@@ -1,0 +1,10 @@
+/Users/capslock/Desktop/human_NEW/bin/Debug/netcoreapp2.0/human_NEW.deps.json
+/Users/capslock/Desktop/human_NEW/bin/Debug/netcoreapp2.0/human_NEW.runtimeconfig.json
+/Users/capslock/Desktop/human_NEW/bin/Debug/netcoreapp2.0/human_NEW.runtimeconfig.dev.json
+/Users/capslock/Desktop/human_NEW/bin/Debug/netcoreapp2.0/human_NEW.dll
+/Users/capslock/Desktop/human_NEW/bin/Debug/netcoreapp2.0/human_NEW.pdb
+/Users/capslock/Desktop/human_NEW/obj/Debug/netcoreapp2.0/human_NEW.csproj.CoreCompileInputs.cache
+/Users/capslock/Desktop/human_NEW/obj/Debug/netcoreapp2.0/human_NEW.AssemblyInfoInputs.cache
+/Users/capslock/Desktop/human_NEW/obj/Debug/netcoreapp2.0/human_NEW.AssemblyInfo.cs
+/Users/capslock/Desktop/human_NEW/obj/Debug/netcoreapp2.0/human_NEW.dll
+/Users/capslock/Desktop/human_NEW/obj/Debug/netcoreapp2.0/human_NEW.pdb
